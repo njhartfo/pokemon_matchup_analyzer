@@ -1,5 +1,3 @@
-import tkinter as tk
-
 #Pokemon
     #Moves
         #Move Slots
